@@ -17,3 +17,7 @@ Just wanted to share the resources I use for my gate cse preparation. Hope it he
 # Compiler Design 
 <i>Short n' sweet 🤭</i>
 <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc&si=QKFljuLPocIyvwM5"> Compiler Design</a>
+
+# Digital Logic Design
+<i>I have GATE Smashers over here but honestly, the Neso Academy playlist is pretty good too!</i>
+<a href="https://youtube.com/playlist?list=PLxCzCOWd7aiGmXg4NoX6R31AsC5LeCPHe&si=qySK56baBJAWgaKf">DLD</a>
