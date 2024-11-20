@@ -13,3 +13,7 @@ Just wanted to share the resources I use for my gate cse preparation. Hope it he
 # Engineering Mathematics
 <i>I don't think these playlists are complete but they are precise and good nonetheless.</i>
 <a href="https://youtube.com/playlist?list=PLbFukSc6jDrS_mwWkB6YmfW4fc3Pwt8zt&si=Z0oRADrU4e69ph0K">Engg. Maths</a>
+
+# Compiler Design 
+<i>Short n' sweet 🤭</i>
+<a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc&si=QKFljuLPocIyvwM5"> Compiler Design</a>
