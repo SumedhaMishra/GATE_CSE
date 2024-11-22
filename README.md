@@ -21,3 +21,7 @@ Just wanted to share the resources I use for my gate cse preparation. Hope it he
 # Digital Logic Design
 <i>I have GATE Smashers over here but honestly, the Neso Academy playlist is pretty good too!</i>
 <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiGmXg4NoX6R31AsC5LeCPHe&si=qySK56baBJAWgaKf">DLD</a>
+
+# Computer Organisation and architecture
+<i>Personally? I hate this subject. Thank you for coming to my TED talk</i>
+<a href="https://youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX&feature=shared"> COA </a>
