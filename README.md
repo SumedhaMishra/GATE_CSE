@@ -23,5 +23,7 @@ Just wanted to share the resources I use for my gate cse preparation. Hope it he
 <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiGmXg4NoX6R31AsC5LeCPHe&si=qySK56baBJAWgaKf">DLD</a>
 
 # Computer Organisation and architecture
-<i>Personally? I hate this subject. Thank you for coming to my TED talk</i>
-<a href="https://youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX&feature=shared"> COA </a>
+<i>Personally? I hate this subject. Thank you for coming to my TED talk.
+Also, two playlists and both of them are of the same length i.e 10 hours.</i>
+<a href="https://youtu.be/9DFaQgST7T8?feature=shared"> Ravindrababu Ravula: COA </a>
+<a href="https://youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX&feature=shared"> Gate smashers: COA </a>
